@@ -91,7 +91,7 @@ Para suporte, mande um email para cfernando_21@hotmail.com.
 
 **Front-end:** HTML, CSS, Bootstrap, Javascript, Jquery
 
-**Back-end:** PHP, Laravel
+**Back-end:** PHP, Laravel, Mysql
 
 
 ## Licença
